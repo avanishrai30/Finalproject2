@@ -3,7 +3,7 @@ This is final project for FRT program. This project mostly focus on woman trendi
 ## Website Link https://agreeable-bay-08bc71510.1.azurestaticapps.net
 ## Project Demonstration video 
 
-https://user-images.githubusercontent.com/82101000/175264754-084be77b-4327-4d80-941a-acbff9e5ce37.mp4
+https://user-images.githubusercontent.com/82101000/175267975-7d5b2c6e-266f-4b0b-a7e6-8b27d3db4245.mp4
 
 
 
